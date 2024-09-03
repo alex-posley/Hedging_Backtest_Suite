@@ -4,3 +4,4 @@ python-dotenv==1.0.1
 attrdict==2.0.1
 tenacity==9.0.0
 dune-client==1.7.5
+pybit==5.8.0
